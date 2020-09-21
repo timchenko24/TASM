@@ -1,11 +1,11 @@
-ascii.asm - ascii table output
+**ascii.asm** - отображение ASCII таблицы
 
-file_creation.asm - creating a file with the given name
+**file_creation.asm** - создание файла с заданным именем
 
-name.asm - request for a name and its display with the number of characters
+**name.asm** - запрос строки и вывод ее с количеством символов в ней
 
-string_conversion.asm - replacing characters in a string from "o" to "k"
+**string_conversion.asm** - замена букв в строке с "o" на "k"
 
-word_replacing_in_file.asm - replacing words in a file from "yarrow" to "medicinal plant". File paths are entered from the keyboard
+**word_replacing_in_file.asm** - замена слов в файле с "yarrow" на "medicinal plant". Пути к файлам вводятся с клавиатуры
 
-xlat.asm - recoding of each byte of a line according to the table
+**xlat.asm** - перекодирование каждого байта строки по таблице
